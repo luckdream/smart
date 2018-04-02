@@ -15,6 +15,10 @@ Date: 2017-06-22 09:05:34
 
 SET FOREIGN_KEY_CHECKS=0;
 
+CREATE DATABASE IF NOT EXISTS `smart-sso`;
+
+USE `smart-sso`;
+
 -- ----------------------------
 -- Table structure for `SYS_APP`
 -- ----------------------------
